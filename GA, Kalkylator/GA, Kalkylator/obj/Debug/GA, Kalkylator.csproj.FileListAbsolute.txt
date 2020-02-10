@@ -1,0 +1,10 @@
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\bin\Debug\GA, Kalkylator.exe.config
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\bin\Debug\GA, Kalkylator.exe
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\bin\Debug\GA, Kalkylator.pdb
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\obj\Debug\GA, Kalkylator.csprojAssemblyReference.cache
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\obj\Debug\GA__Kalkylator.Form1.resources
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\obj\Debug\GA__Kalkylator.Properties.Resources.resources
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\obj\Debug\GA, Kalkylator.csproj.GenerateResource.cache
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\obj\Debug\GA, Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\obj\Debug\GA, Kalkylator.exe
+C:\Users\vigge\Desktop\GA, Kalkylator\GA, Kalkylator\obj\Debug\GA, Kalkylator.pdb
